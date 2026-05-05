@@ -9,3 +9,4 @@ Virou moda criticar linguagens, mas a verdade é simples: toda linguagem tem seu
 
 Curso ADS no IFSC de São José. Se você é de Floripa e região e procura entrar na área de programação, recomendo fortemente fazer o curso. Os professores são ótimos, a estrutura é boa, tem bastante prática e te abre portas para o Mercado.
 
+PS: Aceito recados noturnos!
