@@ -1,6 +1,6 @@
 👋 Buenas!
 
-Aqui quem fala é o Herick (Ou Dr. Pênis), estou cursando Análise e Desenvolvimento de Sistemas no IFSC e meus interesses incluem programação em java e python, análise de dados, LLMs, Springboot e APIs.
+Aqui quem fala é o Herick, estou cursando Análise e Desenvolvimento de Sistemas no IFSC e meus interesses incluem programação em java e python, análise de dados, LLMs, Springboot e APIs.
 - 🌱 Atualmente estou aprendendo: Frameworks e Desenvolvimento Web (Spring Framework, APIs RESTful), Docker e MySQL
 - 📫 Linkedin: https://www.linkedin.com/in/herick-andrei-de-carvalho-a97258300/
 
@@ -9,4 +9,3 @@ Virou moda criticar linguagens, mas a verdade é simples: toda linguagem tem seu
 
 Curso ADS no IFSC de São José. Se você é de Floripa e região e procura entrar na área de programação, recomendo fortemente fazer o curso. Os professores são ótimos, a estrutura é boa, tem bastante prática e te abre portas para o Mercado.
 
-PS: Aceito recados noturnos!
